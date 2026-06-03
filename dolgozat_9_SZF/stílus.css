@@ -4,16 +4,17 @@ body{
     text: align justify 1.6px;
      background-image: url(forrasok/fooldal_forrasok/torino.png);
     background-size: cover;
+    font-size: 23px;
 }
 nav{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 0;
 }
 .egesz{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 15px;
+    background-color: aqua;
 }
 img{
     width: 100%;
@@ -28,6 +29,7 @@ h1{
 }
 footer{
     text-align: center;
+    background-color: aqua;
 }
 p{
     text-align: center;
