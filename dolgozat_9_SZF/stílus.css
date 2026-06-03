@@ -36,12 +36,12 @@ p{
 }
 
 @media screen and (max-width: 1000px) {
-    article{
+    .egesz{
         grid-template-columns: 1fr 1fr 1fr 1fr;
  }
 }
 @media screen and (max-width:600px) {
-    article{
+    .egesz{
         grid-template-columns: 1fr;
     }
 }
